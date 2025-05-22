@@ -31,4 +31,4 @@ App.js
 index.js
 styles.css
 # quirky-tesla-yvt9dk
-Created with CodeSandbox
+Created with CodeSandbox.
